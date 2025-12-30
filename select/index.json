@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "Everything I Know About Love",
+  "base_artist": "Laufey",
+  "createdAt": "2025-12-30T05:17:39.724753Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Everything I Know About Love",
+      "artist": "Laufey",
+      "has_synced": true,
+      "path": "select/01_Everything_I_Know_About_Love_Laufey.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Everything I Know About Love",
+      "artist": "Laufey",
+      "has_synced": true,
+      "path": "select/02_Everything_I_Know_About_Love_Laufey.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Everything I Know About Love - Live",
+      "artist": "Laufey",
+      "has_synced": true,
+      "path": "select/03_Everything_I_Know_About_Love_-_Live_Laufey.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Everything I Know About Love",
+      "artist": "Laufey",
+      "has_synced": true,
+      "path": "select/04_Everything_I_Know_About_Love_Laufey.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Everything I Know About Love (Live)",
+      "artist": "Laufey",
+      "has_synced": true,
+      "path": "select/05_Everything_I_Know_About_Love_(Live)_Laufey.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Everything I Know About Love",
+      "artist": "Laufey, Spencer Stewart",
+      "has_synced": true,
+      "path": "select/06_Everything_I_Know_About_Love_Laufey,_Spencer_Stewart.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Everything I Know About Love (Instrumental)",
+      "artist": "Mei Mei The Bunny",
+      "has_synced": false,
+      "path": "select/07_Everything_I_Know_About_Love_(Instrumental)_Mei_Mei_The_Bunny.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Everything I Know About Love",
+      "artist": "Laufey",
+      "has_synced": false,
+      "path": "select/pl_01_Everything_I_Know_About_Love_Laufey.txt"
+    }
+  ]
+}
